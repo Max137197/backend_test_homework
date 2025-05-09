@@ -1,3 +1,9 @@
-# backend_test_homework
+On branch master
+Your branch is up to date with 'origin/master'.
 
-Тестовый репозиторий
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        test.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
